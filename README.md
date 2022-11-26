@@ -18,3 +18,21 @@ Seus atributos são: lexema, token, tipo, endereco e classe.
 *Parse.java* realiza toda a análise sintática e semântica da linguagem, além de fazer a parte de geração de código. Ao finalizar leitura e tradução de todo o código, a classe *Buffer* é chamada para realizar a otimização do código assembly e gravá-lo no arquivo codigo.asm.
 
 Os arquivos *Rotulo.java* e *Memoria.java* fazem o gerenciamento de rotulos e memória respectivamente. Incrementando os respectivos contadores para que a próxima utilização ocorra sem conflitos.
+
+Créditos:(https://github.com/anacoimbrag/Compilador)
+
+A Pagina IDE.java Foi uma implementação grafica criada pelos alunos de Engenharia da computação da FAUET-UNIC
+
+Alunos:
+Alex Otavio
+Bianca Cristina
+Eduardo Henrique
+Francisco Jose
+Hudson Falcao
+Mikel Angelo
+Renan Jesus
+Victor Hugo
+
+Professor: Vitório Netto
+
+
